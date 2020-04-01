@@ -13,6 +13,6 @@ Additionally, I believe that the score calculation can be improved too, as of no
 
 
 
-# For an interactive online Jupyter notebook, check out https://mybinder.org/v2/gh/SjDuque/Ideal-Image-Digit- Classifier/03898b59b1a3086b70cc2132e697f67203dce08c?filepath=Ideal-Image%20Number%20Classifier.ipynb
+# For an interactive online Jupyter notebook, check out https://mybinder.org/v2/gh/SjDuque/Ideal-Image-Digit-Classifier/03898b59b1a3086b70cc2132e697f67203dce08c?filepath=Ideal-Image%20Number%20Classifier.ipynb
 
 ### Disclaimer: I am aware that this has likely been done before a thousand times but I couldn't find a resource online for it so I made on myself.
