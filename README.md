@@ -11,7 +11,5 @@ The model got about 82% accuracy on the test data. When compared to logistic reg
 As of right now I am working on the difference calculation, that is the difference between the ideal images and the actual images. I just used a basic euclidian distance but I feel like there is a better one out there. 
 Additionally, I believe that the score calculation can be improved too, as of now the only thing contributing to score is the difference. The score is how confident the ideal image model is that an image is a part of a class.
 
-
-
 # Interactive online Jupyter notebook, 
 https://mybinder.org/v2/gh/SjDuque/Ideal-Image-Digit-Classifier/03898b59b1a3086b70cc2132e697f67203dce08c?filepath=Ideal-Image%20Number%20Classifier.ipynb
